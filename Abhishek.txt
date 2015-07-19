@@ -1,7 +1,14 @@
 I am abhishek kumar
 
+<<<<<<< HEAD
+First changes 
+=======
 First changes 
 
 
 practicing git command
+<<<<<<< HEAD
 again made a change 
+=======
+>>>>>>> test-abhishek
+>>>>>>> origin
