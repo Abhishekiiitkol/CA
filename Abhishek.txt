@@ -1,3 +1,10 @@
 I am abhishek kumar
 
+<<<<<<< HEAD
 First changes 
+=======
+First changes 
+
+
+practicing git command
+>>>>>>> test-abhishek
